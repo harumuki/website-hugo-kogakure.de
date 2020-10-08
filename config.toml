@@ -1,6 +1,6 @@
-title        = "kogakure.de - Ninja, Ninjutsu und Kampfkunst"
-baseURL      = "https://www.kogakure.de/"
-languageCode = "de"
+title        = "Cherish Your Wish - the hopeful, the dream, and future."
+baseURL      = "https://cherishwish.com/"
+languageCode = "en"
 
 metaDataFormat  = "yaml"
 paginate        = 0
